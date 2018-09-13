@@ -1,0 +1,12 @@
+{
+    "files": [
+        "src/js/jsss.ts",
+        "src/js/gg.ts",
+       
+
+    ],
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "target": "es5"
+    }
+}

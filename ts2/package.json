@@ -1,0 +1,29 @@
+{
+    "name": "project-igi",
+    "version": "1.0.0",
+    "description": "my fantastish description",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Sergei Romanets",
+    "license": "ISC",
+    "devDependencies": {
+        "@babel/core": "^7.0.0",
+        "@babel/preset-env": "^7.0.0",
+        "browser-sync": "^2.24.7",
+        "gulp": "^3.9.1",
+        "gulp-autoprefixer": "latest",
+        "gulp-babel": "^8.0.0",
+        "gulp-concat": "latest",
+        "gulp-cssnano": "latest",
+        "gulp-imagemin": "latest",
+        "gulp-less": "latest",
+        "gulp-rename": "latest",
+        "gulp-sass": "latest",
+        "gulp-sourcemaps": "latest",
+        "gulp-typescript": "^5.0.0-alpha.3",
+        "gulp-uglify": "latest",
+        "typescript": "^3.0.3"
+    }
+}
